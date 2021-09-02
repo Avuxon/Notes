@@ -66,3 +66,5 @@ Get array of all class methods w/
 - a.sort does not modify objects (returns a copy)
 - a.sort! modifies original object
 - a.uniq or uniq! removes all duplicates
+
+> Learn hashes in Ruby

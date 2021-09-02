@@ -24,7 +24,12 @@ n^3 / 6 \
 ```
 
 ### Order notation relationship symbols:
-If growing at the same rate or slower :
-θ notation \
-If growing faster use Ω
+**Big-O** : If *f(x)* = O(*g(x)*), then *f(x)* is eventually smaller than some constant multiple of *g(x)*
+
+**Big-Omega** : If *f(x)* = Ω(*g(x)*), then *f(x)* is eventually greater than some constant multiple of *g(x)*
+
+**Big-Theta** : If *f(x)* = θ(*g(x)*), were B*g(x)* ≤ *f(x)* ≤ C*g(x)*, then *g(x)* is eventually in between B*g(x)* & C*g(x)*
+
+
+
 

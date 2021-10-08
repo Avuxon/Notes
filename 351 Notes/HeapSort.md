@@ -29,3 +29,10 @@ Given that that the size of the tree shrinks every iteration, what's the summati
 
 Stirling's Formula
 N! ~ (N/e)^(N) √(2 \* pi \* N)
+
+---
+
+
+
+
+
